@@ -232,4 +232,5 @@ model0loglog <- lm(logsalary~logsales,data=mydata)
 stargazer(model0, model0loglevel, model0levellog, model0loglog, type = "html", report=('vc*p'))
 ```
 
+Here is a change in the .RMD for the BookdownExample Repo. 
 

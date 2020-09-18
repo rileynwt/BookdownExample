@@ -479,4 +479,5 @@ stargazer(model0, model0loglevel, model0levellog, model0loglog, type = "html", r
 <tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="4" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
 
+Here is a change in the .RMD for the BookdownExample Repo. 
 
