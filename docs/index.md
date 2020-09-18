@@ -1,7 +1,7 @@
 --- 
 title: "Bookdown Example"
 author: "481 Student"
-date: "2020-09-17"
+date: "2020-09-18"
 site: bookdown::bookdown_site
 ---
 
